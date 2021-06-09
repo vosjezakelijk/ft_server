@@ -1,1 +1,1 @@
-# ft_server1
+# ft_server
